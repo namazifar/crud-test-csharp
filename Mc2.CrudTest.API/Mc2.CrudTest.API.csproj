@@ -11,8 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\Mc2.CrudTest.Presentation.Client.csproj" />
-    <ProjectReference Include="..\Shared\Mc2.CrudTest.Presentation.Shared.csproj" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 
